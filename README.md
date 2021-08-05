@@ -1,2 +1,49 @@
-# VERSUS
-Project3 Fintech 2021
+## VERSUS: Crypto-betting Game
+Project 3_FinTech 2021
+
+![ETHBasketball](Images/ETH_Basketball.png)
+(Image by kongvector)
+
+
+#### Collaborators
+
+- Coney Dacanay
+- Jason Wang
+- Kaining Liu
+- Michael Nitchov
+- Sherin Solomon
+- Simran Saini
+
+---
+
+#### Player One VERSUS Player Two: A Basketball Betting Game
+
+***Description***
+
+
+***Setup***
+
+- Tools:
+    
+    - Ganache
+    - MyCrypto
+    - Remix
+
+- Network:
+
+
+---
+
+#### Player 1: How to initiate a bet?
+
+---
+
+#### Player 2: How to join a bet?
+
+
+---
+
+#### How to receive winnings?
+
+
+---
