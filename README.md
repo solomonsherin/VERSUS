@@ -5,7 +5,7 @@ Project 3_FinTech 2021
 (Image by kongvector)
 
 
-#### Collaborators
+### Collaborators
 
 - Coney Dacanay
 - Jason Wang
@@ -16,9 +16,9 @@ Project 3_FinTech 2021
 
 ---
 
-#### Player One VERSUS Player Two: A Basketball Betting Game
+### Player One VERSUS Player Two: A Basketball Betting Game
 
-***Description***
+***How it works***
 
 
 ***Setup***
@@ -34,16 +34,16 @@ Project 3_FinTech 2021
 
 ---
 
-#### Player 1: How to initiate a bet?
+### Player 1: How to initiate a bet?
 
 ---
 
-#### Player 2: How to join a bet?
+### Player 2: How to join a bet?
 
 
 ---
 
-#### How to receive winnings?
+### How to receive winnings?
 
 
 ---
