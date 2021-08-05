@@ -16,7 +16,7 @@ Project 3_FinTech 2021
 
 ---
 
-### Player One VERSUS Player Two: A Basketball Betting Game
+### Player 1 VERSUS Player 2: A Basketball Betting Game
 
 ***How it works***
 
