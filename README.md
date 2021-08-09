@@ -34,7 +34,7 @@
 - Player 2 joins the bet/contract with a minimum requirement of matching the bet value and a separate TokenID is created for the second player
 - When the registered game ends, the bet amount is then transferred to the winner
 
-### VERSUS GAME AUCTION:
+### VERSUS GAME AUCTION **(https://github.com/solomonsherin/VERSUS/blob/main/VersusContractMarket.sol)**
 
 This contract sets the parameters and creates the variables for the transfers to take place.
 
