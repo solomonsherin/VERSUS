@@ -45,8 +45,7 @@ This contract is dependent on Versus Game Auction to map the address, create a g
 
 
 ## DEPLOY AND RUN TRANSACTIONS:
-* **[Finamarket.sol](put the link here)**
-* **[ ](put the link here)**
+* **[SCREENSHOTS](https://github.com/solomonsherin/VERSUS/tree/main/Deploy%20and%20Run%20Transactions%20Screenshots)**
 
 ### Sources:
 
