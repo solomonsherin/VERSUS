@@ -11,10 +11,14 @@
 
 ***How it works***
 
+- Players are incentivized to act on behalf of their own self-interest​
+- Players have enough ether in their wallet to participate in betting contract​
+- Facilitator/VERSUS makes ethical decision purely based on game result​
+Betting odds 1:1 in an NBA game due to win/loss nature [no tie]
 
 ***Setup/Libraries used or Adapted***
     
-- Solidity : an object-oriented, high-level language for implementing smart contracts
+- Solidity : An object-oriented, high-level language for implementing smart contracts
     
 - Truffle : Development environment for sports betting dApp
     
@@ -22,7 +26,7 @@
    
 - Ganache: Account info of players and contract owners including their addresses, transactions, and balances
  
-- OpenZeppelin: A library for secure smart contract development. OpenZeppelin Contracts features a stable API, which means your contracts won't break unexpectedly when upgrading to a newer minor version
+- OpenZeppelin: A library for secure smart contract development which features a stable API, which means your contracts won't break unexpectedly when upgrading to a newer minor version                                                     
    - OpenZeppelin's ownable contract : https://github.com/OpenZeppelin/openzeppelin-contracts/blob/release-v2.5.0/contracts/ownership/Ownable.sol
    - OpenZeppelin's ERC721: https://github.com/OpenZeppelin/openzeppelin-contracts/blob/release-v2.5.0/contracts/token/ERC721/ERC721Full.sol
 
