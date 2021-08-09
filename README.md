@@ -5,16 +5,6 @@
 (Image by kongvector)
 
 
----
-
-### Player 1 VERSUS Player 2: A Basketball Betting Game
-
-***How it works***
-
-- Players are incentivized to act on behalf of their own self-interest​
-- Players have enough ether in their wallet to participate in betting contract​
-- Facilitator/VERSUS makes ethical decision purely based on game result​
-Betting odds 1:1 in an NBA game due to win/loss nature [no tie]
 
 ***Setup/Libraries used or Adapted***
     
@@ -31,29 +21,32 @@ Betting odds 1:1 in an NBA game due to win/loss nature [no tie]
    - OpenZeppelin's ERC721: https://github.com/OpenZeppelin/openzeppelin-contracts/blob/release-v2.5.0/contracts/token/ERC721/ERC721Full.sol
 
 
-VERSUS GAME AUCTION:
+
+### Player 1 VERSUS Player 2: A Basketball Betting Game
+
+***How it works***
+
+- Players are incentivized to act on behalf of their own self-interest.
+- Players have enough ether in their wallet to participate in betting contract
+- Facilitator/VERSUS makes ethical decision purely based on game result
+- Betting odds 1:1 in an NBA game due to win/loss nature [no tie]
+- Player 1 initiates the bet choosing his odds and placing a bet value. A Token ID is then created
+- Player 2 joins the bet/contract with a minimum requirement of matching the bet value and a separate TokenID is created for the second player
+- When the registered game ends, the bet amount is then transferred to the winner
+
+### VERSUS GAME AUCTION:
+
+This contract sets the parameters and creates the variables for the transfers to take place.
 
 
-VERSUS GAME MARKET:
+### VERSUS CONTRACT MARKET:
+
+This contract is dependent on Versus Game Auction to map the address, create a game, register the game and transfer the bet amount to the winner when the game ends.
 
 
-### Player 1: How to initiate a bet?
-
-
----
-
-### Player 2: How to join a bet?
-
-
----
-
-### How to receive winnings?
-
-
----
-
-
-
+## DEPLOY AND RUN TRANSACTIONS:
+* **[Finamarket.sol](put the link here)**
+* **[ ](put the link here)**
 
 ### Sources:
 
