@@ -61,10 +61,10 @@ VERSUS GAME MARKET:
 
 ### Collaborators
 
-- Coney Dacanay
+* **[Coney Dacanay]()**
 * **[Jason Wang](https://github.com/enabledisruptor)**
 * **[Kaining Liu](https://github.com/hanson0629)**
-* **[Michael Nitchov] ()** 
+* **[Michael Nitchov]()** 
 * **[Sherin Solomon](https://github.com/solomonsherin)**
 * **[Simran Saini](https://github.com/simran1407)**
 
