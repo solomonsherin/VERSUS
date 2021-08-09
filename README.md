@@ -24,7 +24,15 @@
  
 - OpenZeppelin: A library for secure smart contract development. OpenZeppelin Contracts features a stable API, which means your contracts won't break unexpectedly when upgrading to a newer minor version
 
+
+VERSUS GAME AUCTION:
+
+
+VERSUS GAME MARKET:
+
+
 ### Player 1: How to initiate a bet?
+
 
 ---
 
@@ -42,6 +50,12 @@
 
 
 ### Sources:
+
+- https://xhe3.medium.com/taking-a-bet-with-the-blockchain-64b52352a3c9
+- https://rapidapi.com/blog/sports-betting-app-python/
+- https://medium.com/analytics-vidhya/intro-to-scraping-basketball-reference-data-8adcaa79664a
+- https://github.com/vishaalagartha/basketball_reference_scraper
+- https://medium.com/coinmonks/tutorial-create-a-sports-betting-dapp-on-the-ethereum-blockchain-part-2-cd4753afe702 
 
 ### Collaborators
 
