@@ -65,6 +65,6 @@ VERSUS GAME MARKET:
 - Jason Wang
 - Kaining Liu
 - Michael Nitchov
-- Sherin Solomon
-- Simran Saini
+* **[Sherin Solomon](https://github.com/solomonsherin)**
+* **[Simran Saini](https://github.com/simran1407)**
 
