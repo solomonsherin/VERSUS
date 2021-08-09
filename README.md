@@ -1,8 +1,6 @@
 ## VERSUS: Crypto-betting Game : 
-
 A decentralized sports & event betting platform powered by Ethereum smart contracts.
 
-Project 3_FinTech 2021
 
 ![ETHBasketball](Images/ETH_Basketball.png)
 (Image by kongvector)
